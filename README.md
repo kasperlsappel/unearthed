@@ -18,3 +18,19 @@ Bestehende Karten mit Grundrissen oder Messergebnissen können in Arkio geladen 
 Dort dann die Dateien hochladen.
 2. In der VR-Brille Create -> Imports klicken. Der Gruppe aus Schritt 1 beitreten. Dann die gewünschte Karte auswählen. Den Massstab passend zur Karte wählen.
 3. Vor Ort in der AR-Darstellung die Karte passend zur Umgebung ausrichten indem Landmarken auf der Karte mit der Realität zur Deckung gebracht werden.
+
+## Orte / Fundstücke auf Karte markieren
+
+In der AR-Darstellung können Fundstücke oder Orte in der Ausgrabung durch passende Objekte aus Arkio markiert werden - zum Beispiel kann an der Stelle an der eine Statue gefunden wurde eine Statue aus Arkio plaziert werden.
+Zu dem Objekten kann man noch Notizen hinterlegen.
+
+## Vermessen
+
+## 3d-Scan oder Fotografien der Fundstücke anfertigen und importieren 
+
+Objekte können mit Apps die Dateien im Format obj oder gltf erzeugen gescannt werden. Empfehlenswert ist die App QLone.
+Diese Objektdateien oder Fotos können dann in Arkio über die Cloud in die Szene importiert werden. Man kann die Markierungen (siehe oben) dann durch die gescannten Objekte oder Fotos ersetzen.
+
+## Präsentation
+
+
