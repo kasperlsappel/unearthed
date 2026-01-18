@@ -8,7 +8,7 @@ Mit Hilfe von AR (Augmented Reality) soll die Erfassung, Vermessung und Präsent
 
 * Konto auf [arkio.is](https://arkio.is) anlegen
 * Arkio App auf Meta Quest 2/3 und anderen Geräten installieren.
-* (Arkio Tutorials)[https://www.arkio.is/learn/] ansehen
+* [Arkio Tutorials](https://www.arkio.is/learn/) ansehen
 
 ## Erfassung / Vermessung
 
@@ -40,5 +40,5 @@ Diese Objektdateien oder Fotos können dann in Arkio über die Cloud in die Szen
 ## Präsentation
 
 1. Die Szene aus der VR-Brille exportieren (Files -> Export)
-2. In der (Verwaltung der Arkio Cloud)[https://cloud.arkio.is/scenes] die Szene teile (Share) und dann dem Empfänger entweder die den Einladungslink (Invite URL) oder den "Szene Sharing Code" geben
+2. In der [Verwaltung der Arkio Cloud](https://cloud.arkio.is/scenes) die Szene teile (Share) und dann dem Empfänger entweder die den Einladungslink (Invite URL) oder den "Szene Sharing Code" geben
 3. Besucher können sich jetzt die Fundstelle digital ansehen
