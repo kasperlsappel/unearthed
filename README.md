@@ -18,7 +18,7 @@ Bestehende Karten mit Grundrissen oder Messergebnissen können in Arkio geladen 
 1. Zuerst muss dafür eine Gruppe für den Austausch der Daten erstellt werden: [Arkio Cloud Gruppen](https://cloud.arkio.is)
 Dort dann die Dateien hochladen.
 2. In der VR-Brille Create -> Imports klicken. Der Gruppe aus Schritt 1 beitreten. Dann die gewünschte Karte auswählen. Den Massstab passend zur Karte wählen.
-3. Vor Ort in der AR-Darstellung die Karte passend zur Umgebung ausrichten indem Landmarken auf der Karte mit der Realität zur Deckung gebracht werden.
+4. Vor Ort in der AR-Darstellung die Karte passend zur Umgebung ausrichten indem Landmarken auf der Karte mit der Realität zur Deckung gebracht werden.
 
 ## Orte / Fundstücke auf Karte markieren
 
