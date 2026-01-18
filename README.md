@@ -8,6 +8,7 @@ Mit Hilfe von AR (Augmented Reality) soll die Erfassung, Vermessung und Präsent
 
 * Konto auf [arkio.is](https://arkio.is) anlegen
 * Arkio App auf Meta Quest 2/3 und anderen Geräten installieren.
+* (Arkio Tutorials)[https://www.arkio.is/learn/] ansehen
 
 ## Erfassung / Vermessung
 
