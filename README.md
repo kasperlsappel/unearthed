@@ -25,6 +25,8 @@ Dort dann die Dateien hochladen.
 In der AR-Darstellung können Fundstücke oder Orte in der Ausgrabung durch passende Objekte aus Arkio markiert werden - zum Beispiel kann an der Stelle an der eine Statue gefunden wurde eine Statue aus Arkio plaziert werden.
 Zu dem Objekten kann man noch Notizen hinterlegen.
 
+![Beispiel](https://github.com/kasperlsappel/unearthed/blob/main/statue_mit_notiz.jpeg)
+
 
 ## Vermessen
 
