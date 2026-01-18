@@ -26,6 +26,11 @@ Zu dem Objekten kann man noch Notizen hinterlegen.
 
 ## Vermessen
 
+Es gibt zwei Möglichkeiten zur Vermessung
+* Mit dem "Measure"-Werkzeug im Arkio die Entfernung zu bekannten Seiten wie dem Rand der Karte messen.
+* Ein Messraster als Bild in der VR einfügen und dann die Koordinaten ablesen
+
+
 ## 3d-Scan oder Fotografien der Fundstücke anfertigen und importieren 
 
 Objekte können mit Apps die Dateien im Format obj oder gltf erzeugen gescannt werden. Empfehlenswert ist die App QLone.
@@ -33,4 +38,6 @@ Diese Objektdateien oder Fotos können dann in Arkio über die Cloud in die Szen
 
 ## Präsentation
 
-
+1. Die Szene aus der VR-Brille exportieren (Files -> Export)
+2. In der (Verwaltung der Arkio Cloud)[https://cloud.arkio.is/scenes] die Szene teile (Share) und dann dem Empfänger entweder die den Einladungslink (Invite URL) oder den "Szene Sharing Code" geben
+3. Besucher können sich jetzt die Fundstelle digital ansehen
