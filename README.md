@@ -44,4 +44,4 @@ Diese Objektdateien oder Fotos können dann in Arkio über die Cloud in die Szen
 ]
 1. Die Szene aus der VR-Brille exportieren (Files -> Export)
 2. In der [Verwaltung der Arkio Cloud](https://cloud.arkio.is/scenes) die Szene teile (Share) und dann dem Empfänger entweder die den Einladungslink (Invite URL) oder den "Szene Sharing Code" geben
-3. Besucher können sich jetzt die Fundstelle digital ansehen. ![Beispiel](https://github.com/kasperlsappel/unearthed/blob/main/praesentation.jpeg)
+3. Besucher können sich jetzt die Fundstelle digital ansehen. ![Beispiel](https://github.com/kasperlsappel/unearthed/blob/main/praesentation.png)
