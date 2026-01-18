@@ -31,7 +31,7 @@ Zu dem Objekten kann man noch Notizen hinterlegen.
 ## Vermessen
 
 Es gibt zwei Möglichkeiten zur Vermessung
-* Mit dem "Measure"-Werkzeug im Arkio die Entfernung zu bekannten Seiten wie dem Rand der Karte messen.
+* Mit dem "Measure"-Werkzeug im Arkio die Entfernung zu bekannten Seiten wie dem Rand der Karte messen. ![Beispiel](https://github.com/kasperlsappel/unearthed/blob/main/messung.jpeg)
 * Ein Messraster als Bild in der VR einfügen und dann die Koordinaten ablesen
 
 
@@ -41,7 +41,7 @@ Objekte können mit Apps die Dateien im Format obj oder gltf erzeugen gescannt w
 Diese Objektdateien oder Fotos können dann in Arkio über die Cloud in die Szene importiert werden. Man kann die Markierungen (siehe oben) dann durch die gescannten Objekte oder Fotos ersetzen.
 
 ## Präsentation
-
+]
 1. Die Szene aus der VR-Brille exportieren (Files -> Export)
 2. In der [Verwaltung der Arkio Cloud](https://cloud.arkio.is/scenes) die Szene teile (Share) und dann dem Empfänger entweder die den Einladungslink (Invite URL) oder den "Szene Sharing Code" geben
-3. Besucher können sich jetzt die Fundstelle digital ansehen
+3. Besucher können sich jetzt die Fundstelle digital ansehen. ![Beispiel](https://github.com/kasperlsappel/unearthed/blob/main/praesentation.jpeg)
